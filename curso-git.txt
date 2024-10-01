@@ -1,0 +1,6 @@
+CURSO DE GIT MECATRINICA 1007
+
+comandos escencial  
+git init
+git config --global user.name "usuario"
+git config --global user.email "email"
