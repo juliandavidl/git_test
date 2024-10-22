@@ -4,3 +4,7 @@ comandos escencial
 git init
 git config --global user.name "usuario"
 git config --global user.email "email"
+clear
+git status
+git add .
+git commit
